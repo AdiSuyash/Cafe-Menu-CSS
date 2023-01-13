@@ -9,4 +9,4 @@ If anyone wants to learn CSS,
 <br>
 Go ahead by making this project (link below)
 <br>
-https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1
+https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu
